@@ -1,0 +1,14 @@
+{
+  "max_n": 15,
+  "graphs": 30,
+  "indices_per_graph": 19,
+  "coordinate_pair_checks": 10049712,
+  "horizontal_edge_partition_checks": 10350,
+  "closed_formula_checks": 405,
+  "symbolic_certificates": 24,
+  "max_absolute_degree_error": 4.547473508864641e-13,
+  "python": "3.13.3",
+  "numpy": "2.4.6",
+  "sympy": "1.14.0",
+  "status": "PASS"
+}

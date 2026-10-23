@@ -1,0 +1,14 @@
+{
+  ".gitignore": "0444fd60f8fc9c8dfdf57c59ccb91c65aadd9476f2618a158edca447a64aeebb",
+  "DATA_DICTIONARY.md": "8ce4415f28a4af7b32c486d26333c959e5ad608be545b7f1884fa8c9d5fabd61",
+  "README.md": "6ba15b844355e48abb8b26211a7482851690ab0b1de2f882afc89ab7b66ad5d1",
+  "distance_partitions.csv": "de65d3847a7d9b86829e8ba25cb6a490ddb631bb316644d04f4dc711b7e2bd9e",
+  "indices.csv": "31ddfddcbd49b68713809f745e520b9660f3188aba80bd73199b4bdbb0523839",
+  "make_figures.py": "aa31f942ceb8ff95d6805ff146f1cb78f313c5938093a19a5460c948447ca41a",
+  "old_vertex_comparison.csv": "b44e6fc750246c8101ab5e89cde2f6d02b1a83d1e4be82ae33e0d9a7af9baf53",
+  "requirements.txt": "df53c001682a202e294e57a54d0539e541deff1f636fe4673eaa3123ce01f1ac",
+  "symbolic_checks.py": "aa546c2949b17b1c72d650cb3e781f1d291b136f2a36cee2a9e7a9553f6ee1cf",
+  "verification.csv": "5f14d355f79e4815da99f520d2d62d5da6d76d04f7cc99002205d9457da5e8ce",
+  "verification_summary.json": "67e3bdb64d500a9ea17cb24612ba0b2eb4999be83f85bea5aa2784678304a5d0",
+  "verify.py": "39e77a665c7ba0bba454131fab762f0b28656541b289a1e0182eb7f576425a10"
+}
