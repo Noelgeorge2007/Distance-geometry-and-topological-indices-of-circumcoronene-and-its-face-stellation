@@ -67,8 +67,4 @@ This creates `graphs.pdf`, `normalized_indices.pdf`, `parity.pdf`, and `distance
 
 The finite computations check the implemented formulas over the stated range; they are not a proof for all n. Symbolic certificates check the algebra of selected expressions. Not every descriptor is represented by a polynomial closed form: some are evaluated from distance distributions or finite sums. The work concerns graph descriptors, not experimental chemical measurements or validated predictions of chemical properties.
 
-## Uploading to Git
-
-Upload all extracted repository files, including `.gitignore`. Do not upload the ZIP itself as the repository source. Keep the manuscript, rendered figures, virtual environment, and cache files outside version control. No remote repository is configured by this package.
-
 No software license has been selected in this package. The rights holders should choose a license before authorizing reuse; public visibility alone does not grant a reuse license.
